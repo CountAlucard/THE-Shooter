@@ -7,10 +7,14 @@
 	<Chars>
 		<char name="Char1"/>
 		<char name="Char2"/>
+		<char name="Char3"/>
+		<char name="Char4"/>
 	</Chars>
 	<Stages>
 		<stage name="Stage1"/>
 		<stage name="Stage2"/>
+		<stage name="Stage3"/>
+		<stage name="Stage4"/>
 	</Stages>
 	<YouLose x="500" y="200" animation_velocity="5">
 		<sprite path="misc/you lose/1.png"/>

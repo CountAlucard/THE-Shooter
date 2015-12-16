@@ -1,6 +1,6 @@
 <BulletsFile>
 	<Bullet name="basic bullet" damage="2">
-		<Sprite path="basic bullet.png"/>
+		<Sprite path="gbullet1.png"/>
 		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
 		<OnHit>
 			<Sprite path="kajira/1.png"/>
@@ -10,7 +10,7 @@
 		</OnHit>
 	</Bullet>
 	<Bullet name="bullet_red_triangle" damage="2">
-		<Sprite path="bulleta.png"/>
+		<Sprite path="gbullet2.png"/>
 		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
 		<OnHit>
 			<Sprite path="kajira/1.png"/>
@@ -20,7 +20,7 @@
 		</OnHit>
 	</Bullet>
 	<Bullet name="bullet_red_triangle_reverse" damage="2">
-		<Sprite path="bulletb.png"/>
+		<Sprite path="gbullet3.png"/>
 		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
 		<OnHit>
 			<Sprite path="kajira/1.png"/>
@@ -30,7 +30,7 @@
 		</OnHit>
 	</Bullet>
 	<Bullet name="bullet_green" damage="2">
-		<Sprite path="bullet_green.png"/>
+		<Sprite path="gbullet4.png"/>
 		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
 		<OnHit>
 			<Sprite path="kajira/1.png"/>
@@ -40,7 +40,7 @@
 		</OnHit>
 	</Bullet>
 	<Bullet name="bullet_red" damage="2">
-		<Sprite path="bullet_red.png"/>
+		<Sprite path="gbullet5.png"/>
 		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
 		<OnHit>
 			<Sprite path="kajira/1.png"/>
@@ -50,7 +50,7 @@
 		</OnHit>
 	</Bullet>
 	<Bullet name="bullet_yellow" damage="2">
-		<Sprite path="bullet_yellow.png"/>
+		<Sprite path="gbullet6.png"/>
 		<Hitbox x="-4" y="-2" width="8" height="4" angle="0"/>
 		<OnHit>
 			<Sprite path="kajira/1.png"/>

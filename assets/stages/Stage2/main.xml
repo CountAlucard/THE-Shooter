@@ -2,20 +2,9 @@
 	<Bounds x1="0" y1="0" x2="1366" y2="768"/>
 	<Misc velocity="10"/>
 	<BackLayer frame_duration="40" depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
-		<frame image_path="black.png" width="1366" height="768"/>
+		<frame image_path="black.jpg" width="1366" height="768"/>
 	</BackLayer>
-	<BackLayer frame_duration="40" depth_effect_x="30" depth_effect_y="0" align_x="1300" align_y="400" separation_x="1500">
-		<frame image_path="star.png" width="71" height="71"/>
-	</BackLayer>
-	<BackLayer frame_duration="40" depth_effect_x="30" depth_effect_y="0" align_x="600" align_y="620" separation_x="1500">
-		<frame image_path="star2.png" width="71" height="71"/>
-	</BackLayer>
-	<BackLayer frame_duration="40" depth_effect_x="6" depth_effect_y="0" align_x="400" align_y="-400" separation_x="1500">
-		<frame image_path="planet.png" width="667" height="667"/>
-	</BackLayer>
-	<BackLayer frame_duration="40" depth_effect_x="20" depth_effect_y="0" align_x="1000" align_y="500" separation_x="1500">
-		<frame image_path="planet2.png" width="240" height="240"/>
-	</BackLayer>
+	
 <!--
 	<BackLayer frame_duration="40" depth_effect_x="0" depth_effect_y="0" align_x="0" align_y="0" separation_x="0">
 		<frame image_path="filter.png" width="1366" height="768"/>
